@@ -9,6 +9,7 @@
 <br/>
 [![Jeongho's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuzzzu1318)](https://github.com/cuzzzu1318/github-readme-stats)
 <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuzzzu1318&layout=demo&theme=dark)
 <br/>
 #### 💻Tech Stacks
 <div>
