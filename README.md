@@ -23,4 +23,5 @@
 
 ## ❓Solved.ac
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cuzzzu1318)](https://solved.ac/cuzzzu1318)
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=cuzzzu1318)](https://solved.ac/cuzzzu1318)
+
