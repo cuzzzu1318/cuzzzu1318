@@ -25,6 +25,7 @@
 ## ❓Solved.ac
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=cuzzzu1318)](https://solved.ac/cuzzzu1318)
+[![solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=cuzzzu1318)](https://solved.ac/cuzzzu1318)
 
 
 
