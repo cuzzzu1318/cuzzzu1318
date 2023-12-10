@@ -7,7 +7,7 @@
 ⌨️삼성 청년 SW 아카데미 (SSAFY) 10th (2023.07~present)
 <br>  
 
-## 💻Tech Stacks
+## 💻Skills
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black">
 <img src="https://img.shields.io/badge/vuejs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=black">
