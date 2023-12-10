@@ -1,5 +1,9 @@
 # Hi I'm Jeongho🙌
-<br/><br/>
+<hr>
+
+## ✨ Experiences
+- 삼성 청년 SW 아카데미 (SSAFY) 10th (2023.07~present)
+    
 ## 💻Tech Stacks
 <div>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black">
