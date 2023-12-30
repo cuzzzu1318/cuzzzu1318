@@ -4,7 +4,7 @@
 <br>  
 
 ## ✨ Experiences
-⌨️삼성 청년 SW 아카데미 (SSAFY) 10th (2023.07~present)
+⌨️삼성 청년 SW 아카데미 (SSAFY) 10th (2023.07~ing)
 <br>  
 
 ## 💻Skills
