@@ -31,11 +31,13 @@
 ## ❓Solved.ac
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=cuzzzu1318)](https://solved.ac/cuzzzu1318)
-</div>
 
 ## Git
 <img src="https://github-readme-stats-ivory-three.vercel.app/api/top-langs/?username=cuzzzu1318&layout=demo&theme=dark" height="200px"></img>
 <img src="https://github-readme-stats-ivory-three.vercel.app/api?username=cuzzzu1318" height="200px"></img>
+</div>
+
+
 
 
 
