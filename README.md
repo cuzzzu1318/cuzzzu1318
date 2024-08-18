@@ -35,6 +35,6 @@
 
 ## Git
 ![Top Langs](https://github-readme-stats-ivory-three.vercel.app/api/top-langs/?username=cuzzzu1318&layout=demo&theme=dark)
-
+[![Jeongho's GitHub stats](https://github-readme-stats-ivory-three.vercel.app/api?username=cuzzzu1318)](https://github.com/cuzzzu1318/github-readme-stats)
 
 
